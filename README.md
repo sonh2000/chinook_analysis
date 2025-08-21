@@ -74,10 +74,12 @@ and you can look to the files uploaded for sql files
 ---
 
 ## 📷 Screenshots  
-(Add screenshots of your Power BI dashboard pages here with markdown, for example:)  
 
-![Overview Dashboard](images/overview.png)  
-![Sales Analysis](images/sales_analysis.png)  
+
+![Overview Dashboard](overview.png)  
+![Sales Analysis](sales_analysis.png)  
+![customer_analysis](customer_insights.png) 
+![country_analysis](country_insights.png) 
 
 ---
 
@@ -91,3 +93,8 @@ and you can look to the files uploaded for sql files
 ## 📌 About Me  
 I’m a **Data Analyst** skilled in SQL, Power BI, Python, and data visualization.  
 This project demonstrates my ability to turn raw relational data into **actionable insights**.  
+## 📬 Contact  
+- Email: yasserhassen98@gmail.com
+- LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/hassan-yasser-2000hh)  
+- GitHub: [github.com/yourusername](https://github.com/sonh2000)  
+
